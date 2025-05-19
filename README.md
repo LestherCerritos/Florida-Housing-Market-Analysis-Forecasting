@@ -17,7 +17,7 @@ This project explores the relationship between **Florida's population growth**, 
 - Analyze how housing prices in Florida are influenced by:
   - Population growth
   - Housing unit supply
-- Visualize yearly trends (1988–2024)
+- Visualize yearly trends
 - Apply **linear** and **polynomial regression** to predict housing prices
 - Forecast housing price trends through **2040**
 
@@ -39,9 +39,19 @@ This project explores the relationship between **Florida's population growth**, 
 
 ---
 
-## 📦 Dependencies
+![image](https://github.com/user-attachments/assets/27dd3160-515f-4bf9-8b20-31cf3940c887)
 
-Install the following libraries using pip:
+![image](https://github.com/user-attachments/assets/2acabf17-c9f5-4ce6-9a48-f11cb171422d)
 
-```bash
-pip install pandas numpy matplotlib scikit-learn openpyxl
+
+
+---
+
+
+## ⚙️ Technologies Used
+
+-Python
+-Streamlit
+-Pandas,NumPy
+-Matplotlib
+-scikit-learn
