@@ -2,6 +2,7 @@
 
 This project explores the relationship between **Florida's population growth**, **new housing unit construction**, and **housing prices** over time. It uses public datasets to clean, merge, visualize, and model trends — ultimately generating **forecasted housing prices** up to 2040 using linear and polynomial regression.
 
+[Live Dashboard} (https://floridahousingprojections.streamlit.app/)
 ---
 
 ## 📊 Datasets Used
