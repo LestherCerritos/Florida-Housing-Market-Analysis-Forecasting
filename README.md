@@ -1,11 +1,11 @@
-# 🏡 Florida Housing Market Analysis & Forecasting
+Florida Housing Market Analysis & Forecasting
 
-This project explores the relationship between **Florida's population growth**, **new housing unit construction**, and **housing prices** over time. It uses public datasets to clean, merge, visualize, and model trends — ultimately generating **forecasted housing prices** up to 2040 using linear and polynomial regression.
+This project explores the relationship between **Florida's population growth**, **new housing unit construction**, and **housing prices** over time. It uses public datasets to clean, merge, visualize, and model trends generating **forecasted housing prices** up to 2040 using linear and polynomial regression.
 
 [Live Dashboard} (https://floridahousingprojections.streamlit.app/)
 ---
 
-## 📊 Datasets Used
+## Datasets Used
 
 1. **FLSTHPI.csv** – Housing price index data for Florida  
 2. **NewHousingUnits.csv** – Monthly new housing units constructed  
@@ -13,7 +13,7 @@ This project explores the relationship between **Florida's population growth**, 
 
 ---
 
-## 🔍 Project Goals
+## Project Goals
 
 - Analyze how housing prices in Florida are influenced by:
   - Population growth
@@ -24,18 +24,18 @@ This project explores the relationship between **Florida's population growth**, 
 
 ---
 
-## 🛠️ Features
+## Features
 
-- 🧼 **Data Preprocessing**: Date parsing, missing value checks, merging on `Year`
-- 📈 **Visualization**: Matplotlib plots showing:
+- **Data Preprocessing**: Date parsing, missing value checks, merging on `Year`
+- **Visualization**: Matplotlib plots showing:
   - New housing units over time
   - Average housing prices
   - Population trends
   - Housing prices vs population
-- 🤖 **ML Models**:
+- **ML Models**:
   - Linear Regression (Normal Equation)
   - Polynomial Regression (Degree 2)
-- 🔮 **Forecasting**:
+-  **Forecasting**:
   - Predict future housing prices based on extrapolated population and housing trends
 
 ---
@@ -49,7 +49,7 @@ This project explores the relationship between **Florida's population growth**, 
 ---
 
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 -Python
 -Streamlit
