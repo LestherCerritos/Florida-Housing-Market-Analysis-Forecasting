@@ -40,9 +40,9 @@ This project explores the relationship between **Florida's population growth**, 
 
 ---
 
-![image](https://github.com/user-attachments/assets/27dd3160-515f-4bf9-8b20-31cf3940c887)
+[image](https://github.com/user-attachments/assets/27dd3160-515f-4bf9-8b20-31cf3940c887)
 
-![image](https://github.com/user-attachments/assets/2acabf17-c9f5-4ce6-9a48-f11cb171422d)
+[image](https://github.com/user-attachments/assets/2acabf17-c9f5-4ce6-9a48-f11cb171422d)
 
 
 
